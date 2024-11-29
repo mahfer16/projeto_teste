@@ -17,7 +17,9 @@ Se organizar na hora de fazer suas compras.
 | *4. Testes e Ajustes Finais*| Realizar testes de usabilidade e corrigir possíveis bugs.    | 1 dia            |
 | *5. Documentação*           | Criar e adicionar o arquivo README.md com as instruções e descrição do projeto. | 1 dia
 
-# Como Executar o Projeto
+# Como Executar o Projeto 
+Cole isso no seu terminal.
+
   ```bash
   git clone https://github.com/mahfer16/projeto_teste.git
   cd projeto_teste

@@ -20,5 +20,5 @@ Se organizar na hora de fazer suas compras.
 # Como Executar o Projeto
   ```bash
   git clone https://github.com/mahfer16/projeto_teste.git
-  cd lista-script
+  cd projeto_teste
   python ListaCompras.py
